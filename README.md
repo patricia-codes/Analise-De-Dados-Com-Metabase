@@ -45,7 +45,7 @@ A base inclui dados como:
 ## 🖼️ Dashboard Completo
 
 
-![Dashboard de Produtos](Products.gif)
+![Dashboard de Produtos](Dashboard.gif)
 
 ---
 
