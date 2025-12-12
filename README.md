@@ -23,8 +23,8 @@ Os dados utilizados neste projeto foram fornecidos pelo curso **DNC** e disponib
 O dataset foi importado para o **Metabase**, onde foram realizadas as consultas e visualizações apresentadas no dashboard final.
 
 ### 🔗 Fonte Oficial dos Dados
-Os dados foram obtidos a partir do ambiente público da DNC:  
-https://dex.dnc.group/browse/4-sample-database
+Os dados foram obtidos a partir do Metabase da DNC:  
+ https://dex.dnc.group/browse 
 
 ### 📄 Arquivo Utilizado
 - **Dataset:** [Dataset Products.xlsx](./Dataset%20Products.xlsx)
