@@ -1,4 +1,4 @@
-# 📊 Dashboard Analítico de Produtos — Metabase (DNC School)
+# 📊 Dashboard Analítico de Produtos — Metabase (Escola DNC)
 ### Projeto de Análise de Dados utilizando Metabase + Dataset da DNC
 
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen)
@@ -10,25 +10,35 @@
 
 ## 📝 Descrição do Projeto
 
-Este repositório apresenta um dashboard completo de análise de produtos, desenvolvido no **Metabase**, utilizando o dataset público fornecido pela **DNC School**.
+Este repositório apresenta um dashboard completo de análise de produtos, desenvolvido no **Metabase**, utilizando o dataset fornecido pela **Escola DNC**.
 
 O objetivo foi analisar distribuição, avaliações, preços e comportamento temporal dos produtos, oferecendo uma visão clara e organizada dos dados.
 
 A análise faz parte do programa da DNC e representa meu processo de aprendizado em **Análise de Dados**, **BI** e criação de dashboards profissionais.
 
 ---
+## 📂 Dataset Utilizado 
 
-## 🗂️ Fonte dos Dados
+Os dados utilizados neste projeto foram fornecidos pelo curso **DNC** e disponibilizados em formato **Excel (.xlsx)**.  
+O dataset foi importado para o **Metabase**, onde foram realizadas as consultas e visualizações apresentadas no dashboard final.
 
+### 🔗 Fonte Oficial dos Dados
 Os dados foram obtidos a partir do ambiente público da DNC:  
-🔗 https://dex.dnc.group/browse/4-sample-database
+https://dex.dnc.group/browse/4-sample-database
 
-A tabela analisada contém informações como:
+### 📄 Arquivo Utilizado
+- **Dataset:** [Dataset Products.xlsx](./Dataset%20Products.xlsx)
+
+### 📋 Informações Contidas na Tabela
+A base inclui dados como:
 - Categoria do produto  
 - Preço  
 - Data de criação  
 - Avaliação  
 - Quantidade por categoria  
+
+### 🛠️ Ferramenta de Análise
+- **Metabase**
 
 ---
 
