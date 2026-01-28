@@ -132,11 +132,6 @@ Widget possui o maior preço médio.
 3. Reproduza as consultas  
 4. Monte o dashboard  
 
----
-
-# 📄 Licença
-
-Licença **MIT**.
 
 ---
 
